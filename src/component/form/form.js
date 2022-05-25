@@ -5,8 +5,11 @@ export const Form = () => {
 
     const [ formbuy , setFormBuy ] = useState({
         titulo:'',
-        precio:''
+        precio:'',
     })
+    /*
+        
+    */
 
     const handleChange = (e)=>{
         setFormBuy({
@@ -32,7 +35,6 @@ export const Form = () => {
       <form onSubmit={handleSubmit}>
         <input type='text' onChange={handleChange} name='titulo'/>
         <input type='number' onChange={handleChange} name='precio' />
-  
         <input type='submit'/>
       </form>
     );
