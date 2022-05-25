@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mercadopagofrontend/static/css/main.e6c13ad2.css",
+    "main.js": "/mercadopagofrontend/static/js/main.bcec7d30.js",
+    "static/js/787.cda612ba.chunk.js": "/mercadopagofrontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/mercadopagofrontend/index.html",
+    "main.e6c13ad2.css.map": "/mercadopagofrontend/static/css/main.e6c13ad2.css.map",
+    "main.bcec7d30.js.map": "/mercadopagofrontend/static/js/main.bcec7d30.js.map",
+    "787.cda612ba.chunk.js.map": "/mercadopagofrontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bcec7d30.js"
+  ]
+}
